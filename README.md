@@ -1,4 +1,4 @@
-### Hi there 👋 https://www.codewars.com/users/zinovev/badges/large
+### Hi there 👋
 
 <!--
 **zinovev39/zinovev39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.codewars.com/users/zinovev/badges/large" title="Codewars" alt="Codewars">
+<img src="https://www.codewars.com/users/zinovev/badges/micro" title="Codewars" alt="Codewars">
 
