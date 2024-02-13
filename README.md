@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg]" title="Codewars" alt="Codewars">
 
