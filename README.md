@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.codewars.com/users/zinovev/badges/micro" title="Codewars" alt="Codewars">
+<img src="https://www.codewars.com/users/zinovev/badges/small" title="Codewars" alt="Codewars">
 
