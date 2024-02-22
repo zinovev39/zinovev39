@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<p dir="auto">
+  <img src="https://camo.githubusercontent.com/5b6870604062bb409abb12792c68576cb0665ad18bd67b9b12ce88147173a0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3233323332333f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35" title="HTML" alt="HTML" width="80px"/>&nbsp;
   <img src="https://camo.githubusercontent.com/90fb3443870f0f4658cf04838824cf40ba55eab9ff87427a9a115f3c84bd8fd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3233323332333f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" title="JavaScript" alt="JavaScript" width="80px"/>&nbsp;
-</div>
+</p>
+<br>
 <img src="https://www.codewars.com/users/zinovev/badges/small" title="Codewars" alt="Codewars">
-
